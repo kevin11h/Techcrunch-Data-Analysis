@@ -1,4 +1,6 @@
 # Techcrunch-Data-Analysis
+Notes: Relocate Data Source
+Tool: CSV to HTML table http://convertcsv.com/csv-to-html.htm
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">permalink</th>
